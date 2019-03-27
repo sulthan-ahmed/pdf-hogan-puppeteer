@@ -14,7 +14,7 @@
   "license": "MIT",
   "homepage": "https://github.com/sulthan-ahmed/",
   "dependencies": {
-    "hogan-express-strict": "^0.5.4",
+    "hogan": "^1.0.2",
     "puppeteer": "^1.13.0"
   }
 }
